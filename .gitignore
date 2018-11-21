@@ -1,0 +1,6 @@
+target/
+classes/
+.metadata/
+.recommenders/
+.mvn/
+.settings/
